@@ -15,8 +15,8 @@
 #define outputA 2
 #define outputB 3
 //CYTRON 
-#define motor_pwm 4
-#define motor_dir 5
+#define motor_pwm 5
+#define motor_dir 6
 //=====================
 int Time_between_publishes = 10;
 long long counter=0;
