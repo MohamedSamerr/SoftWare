@@ -1,0 +1,5 @@
+classes   = 1
+train     = /content/balls/train.txt
+valid     = /content/balls/test.txt
+names     = /content/balls/balls.names
+backup    = /content/drive/MyDrive/weights/backup
